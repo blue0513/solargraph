@@ -1,5 +1,7 @@
 require 'thread'
 require 'set'
+require 'rb-readline'
+require 'pry'
 
 module Solargraph
   module LanguageServer
